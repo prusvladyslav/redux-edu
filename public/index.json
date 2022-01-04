@@ -1,0 +1,75 @@
+[
+{
+    "name":"Футболка горчичная",
+    "price":"1790",
+    "article":"1",
+    "imgUrl":"./img/item1.jpg",
+    "color":"black"
+},
+
+{
+    "name":"Пальто кашемировое",
+    "price":"5290",
+    "article":"2",
+    "imgUrl":"./img/item2.jpg",
+    "color":"black"
+},
+{
+    "name":"Бомбер красный",
+    "price":"5290",
+    "article":"3",
+    "imgUrl":"./img/item3.jpg",
+    "color":"black"
+},
+{
+    "name":"Кардиган серый",
+    "price":"5290",
+    "article":"4",
+    "imgUrl":"./img/item4.jpg",
+    "color":"black"
+},
+{
+    "name":"Куртка с карманами",
+    "price":"6990",
+    "article":"5",
+    "imgUrl":"./img/item5.jpg",
+    "color":"black"
+},
+{
+    "name":"Пальто песочное",
+    "price":"18990",
+    "article":"6",
+    "imgUrl":"./img/item6.jpg",
+    "color":"black"
+},
+
+{
+    "name":"Джинсы с принтом",
+    "price":"3290",
+    "article":"7",
+    "imgUrl":"./img/item7.jpg",
+    "color":"black"
+},
+
+{
+    "name":"Джинсовая куртка с принтом",
+    "price":"6490",
+    "article":"8",
+    "imgUrl":"./img/item8.jpg",
+    "color":"black"
+},
+{
+    "name":"Джинсовая куртка голубая",
+    "price":"2990",
+    "article":"9",
+    "imgUrl":"./img/item9.jpg",
+    "color":"black"
+},
+{
+    "name":"Водолазка Slim Fit",
+    "price":"3790",
+    "article":"10",
+    "imgUrl":"./img/item10.jpg",
+    "color":"black"
+}
+]
